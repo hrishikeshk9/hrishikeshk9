@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **hrishikeshk9/hrishikeshk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 🌐 **Hi, I'm Hrishikesh K — ML/LLMOps Enthusiast**
+# 🌐 **Hrishikesh K — ML/LLMOps Enthusiast**
 
 I design and build **large‑scale ML & LLM platforms**, high‑performance inference systems, and cloud‑native AI infrastructure.  
 With **8.5+ years** across ML engineering, MLOps, LLMOps, and distributed systems, I focus on creating **reliable, observable, cost‑efficient AI platforms** that scale across organizations.
