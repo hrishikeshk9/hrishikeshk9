@@ -33,12 +33,12 @@ Before that, **5 years** architecting **ML platforms, data/feature systems, dist
 
 | Repo | What it demonstrates |
 |---|---|
-| [rag-reference-architecture](https://github.com/hrishikeshk9/rag-reference-architecture) | Production RAG: hybrid retrieval, guardrails, eval loop, cost model |
-| [architecture-decision-records](https://github.com/hrishikeshk9/architecture-decision-records) | 15 ADRs across LLM platform, RAG, MLOps, infra, data systems |
-| [transformer-from-scratch](https://github.com/hrishikeshk9/transformer-from-scratch) | Attention, KV cache, RoPE implemented without framework layers |
+| [agentic-digital-twin-platform](https://github.com/hrishikeshk9/agentic-digital-twin-platform) | LangGraph agents + PINN/ROM simulation + Dagster lineage for autonomous industrial twins |
+| [Retrieval-Augmented-Generation-RAG-System](https://github.com/hrishikeshk9/Retrieval-Augmented-Generation-RAG-System) | Production RAG: hybrid retrieval, guardrails, LLM-judge eval loop, cost model |
+| [architecture-decision-records](https://github.com/hrishikeshk9/architecture-decision-records) | 15 ADRs across LLM platform, RAG, MLOps, infra, and data systems |
+| [transformer-from-scratch](https://github.com/hrishikeshk9/transformer-from-scratch) | Attention, KV cache, RoPE, and BPE tokenizer implemented without framework layers |
 | [llm-eval-harness](https://github.com/hrishikeshk9/llm-eval-harness) | LLM-as-judge, CI regression gates, retrieval + generation metrics |
-| [terraform-aws-llm-platform](https://github.com/hrishikeshk9/terraform-aws-llm-platform) | EKS GPU cluster, vLLM-ready infra, permission boundaries, cost estimates |
-| [vllm](https://github.com/hrishikeshk9/vllm) | Fork with multi-tenant routing and batching tuning experiments |
+| [terraform-aws-llm-platform](https://github.com/hrishikeshk9/terraform-aws-llm-platform) | EKS GPU cluster, vLLM-ready infra, Karpenter spot/on-demand, permission boundaries |
 
 ---
 
