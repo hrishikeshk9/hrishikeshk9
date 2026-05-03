@@ -1,8 +1,8 @@
 ---
 
-# Hrishikesh Kulkarni — ML/LLMOps Principal Engineer
+# Hrishikesh Kulkarni — ML/LLMOps Engineer - AI & GPU Operations
 
-I design and build **large-scale ML & LLM platforms**, high-performance inference systems, and cloud-native AI infrastructure.
+Designs and builds **large-scale ML & LLM platforms**, high-performance inference systems, and cloud-native AI infrastructure.
 With **8.5+ years** across ML engineering, MLOps, LLMOps, and distributed systems, I focus on creating **reliable, observable, cost-efficient AI platforms** that scale across organizations.
 
 Over the last **4 years**, my work has centered on **LLM systems architecture** — RAG platforms, vLLM-based serving, embeddings optimization, evaluation pipelines, and LLM-driven telemetry.
