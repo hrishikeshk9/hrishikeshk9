@@ -1,83 +1,119 @@
----
+<div align="center">
+  
+# 🚀 Hrishikesh Kulkarni
+### AI Engineer | ML Systems Architect | End-to-End AI Platform Builder
 
-# Hrishikesh Kulkarni — ML/LLMOps Engineer - AI & GPU Operations
+**Building production-grade AI systems with robust CI/CD, testing, and continuous trust**
 
-Designs and builds **large-scale ML & LLM platforms**, high-performance inference systems, and cloud-native AI infrastructure.
-With **8.5+ years** across ML engineering, MLOps, LLMOps, and distributed systems, I focus on creating **reliable, observable, cost-efficient AI platforms** that scale across organizations.
+[📧 Email](mailto:hrishikeshkulkarni9@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/hrishikesh-r-kulkarni) • [🐙 GitHub](https://github.com/hrishikeshk9)
 
-Over the last **4 years**, my work has centered on **LLM systems architecture** — RAG platforms, vLLM-based serving, embeddings optimization, evaluation pipelines, and LLM-driven telemetry.
-Before that, **5 years** architecting **ML platforms, data/feature systems, distributed training pipelines, and simulation-driven AI workflows**.
-
----
-
-## What I Focus On
-
-**LLM & GenAI Platform Architecture**
-- Designing LLM control planes, evaluation frameworks, and multi-stage RAG systems
-- Architecting vLLM-based inference layers with async routing, caching, and cost-aware scheduling
-- Building LLM observability: latency, drift, quality, cost, and safety signals
-
-**ML/LLMOps at Scale**
-- End-to-end ML/LLM lifecycle automation (training → deployment → monitoring)
-- Governance, lineage, reproducibility, and compliance workflows
-- Multi-tenant ML platform design for large engineering orgs
-
-**Cloud-Native AI Infrastructure**
-- Kubernetes-first ML/LLM workloads with GPU orchestration
-- Distributed compute pipelines for simulation, autonomy, and analytics
-- GitOps, IaC, and secure ML deployment architectures
+</div>
 
 ---
 
-## Selected Open Source Work
+## 🎯 Who I Am
 
-| Repo | What it demonstrates |
-|---|---|
-| [agentic-digital-twin-platform](https://github.com/hrishikeshk9/agentic-digital-twin-platform) | LangGraph agents + PINN/ROM simulation + Dagster lineage for autonomous industrial twins |
-| [Retrieval-Augmented-Generation-RAG-System](https://github.com/hrishikeshk9/Retrieval-Augmented-Generation-RAG-System) | Production RAG: hybrid retrieval, guardrails, LLM-judge eval loop, cost model |
-| [architecture-decision-records](https://github.com/hrishikeshk9/architecture-decision-records) | 15 ADRs across LLM platform, RAG, MLOps, infra, and data systems |
-| [transformer-from-scratch](https://github.com/hrishikeshk9/transformer-from-scratch) | Attention, KV cache, RoPE, and BPE tokenizer implemented without framework layers |
-| [llm-eval-harness](https://github.com/hrishikeshk9/llm-eval-harness) | LLM-as-judge, CI regression gates, retrieval + generation metrics |
-| [terraform-aws-llm-platform](https://github.com/hrishikeshk9/terraform-aws-llm-platform) | EKS GPU cluster, vLLM-ready infra, Karpenter spot/on-demand, permission boundaries |
+With **8.5+ years** engineering AI systems at scale, I specialize in **end-to-end AI engineering**—from model development through production deployment with robust quality gates, automated testing, and continuous trust frameworks.
+
+- **Last 4 years**: Full-stack AI systems — model evaluation, RAG architectures, embeddings optimization, observability, and production workflows
+- **Prior 5 years**: ML platforms, feature systems, experiment pipelines, distributed training, and simulation-driven workflows
+- **Specialty**: Engineering reliable AI systems with CI/CD practices tailored for ML — automated testing, quality gates, drift detection, and safe deployments
 
 ---
 
-## Core Skills
+## 💡 What I Build
 
-**ML/AI Platform Engineering:**
-MLflow, Kubeflow, LangChain, LlamaIndex, vLLM, model monitoring, drift detection, RAG pipelines, experiment tracking
+### 🔄 End-to-End AI Engineering & MLOps
+- **Model Development Lifecycle**: Experiment tracking, versioning, reproducibility, and governance
+- **AI-Native CI/CD**: Automated model testing, data validation pipelines, quality gates before deployment
+- **Continuous Testing (CT) for AI**: Drift detection, performance monitoring, data quality checks, safety validations
+- **Deployment Automation**: Canary rollouts, A/B testing frameworks, automated rollback on quality degradation
 
-**Cloud & Infrastructure:**
-AWS, Azure, Kubernetes, Docker, Terraform, Ansible, GitOps, distributed computing, observability (Prometheus/Grafana), secure ML deployments
+### 🧪 AI Quality & Evaluation Systems
+- Production evaluation frameworks: LLM-as-judge, retrieval metrics, task-specific validators
+- Regression testing suites for models with automated alerts on performance drift
+- Data quality monitors: schema validation, distribution shifts, outlier detection
+- Safety & guardrail testing: adversarial checks, hallucination detection, bias analysis
 
-**Programming & Data Systems:**
-Python (FastAPI, async/await), PyTorch, SQL/NoSQL, vector databases (Milvus/FAISS/pgvector), ETL pipelines
+### 🏗️ AI Platform Architecture
+- Model registry with governance: versioning, lineage, deployment approval workflows
+- Feature platforms: lineage tracking, reusable feature engineering, feature store integration
+- Experiment orchestration: reproducible pipelines, hyperparameter tracking, cross-validation automation
+- Multi-tenant AI systems: isolation, quotas, audit logs, compliance workflows
 
----
-
-## Currently Working On
-
-- Architecting LLM evaluation & safety workflows for production systems
-- Designing cost-efficient vLLM inference layers with dynamic batching and routing
-- Building multi-tenant RAG platforms with vector search and hybrid retrieval
-
-## Looking to Collaborate On
-
-- Open-source LLMOps tooling, RAG frameworks, and evaluation systems
-- High-scale ML/LLM infrastructure projects
-- Platform engineering for AI-heavy organizations
-
-## Ask Me About
-
-- LLMOps, RAG, vLLM, embeddings, async inference
-- ML platform architecture, observability, lineage, governance
-- Kubernetes for ML/LLM workloads
-
-## Reach Me
-
-- Email: hrishikeshkulkarni9@gmail.com
-- LinkedIn: [linkedin.com/in/hrishikesh-r-kulkarni](https://linkedin.com/in/hrishikesh-r-kulkarni)
+### 📊 Observability & Telemetry for AI
+- Model performance dashboards: latency, accuracy, cost, fairness metrics
+- Data pipeline monitoring: data drift, feature drift, input/output validation
+- Production alerting: quality degradation, latency anomalies, inference failures
+- Explainability & debugging: prediction explanations, error analysis, root cause detection
 
 ---
 
-I've built platforms across **LLMs, digital twins, SDVs, and simulation systems** — four domains that rarely overlap, but all demand **robust, scalable, production-grade engineering**.
+## 🔗 Open Source Portfolio
+
+**Click any project to explore the architecture & engineering practices**
+
+| Project | Focus | Highlights |
+|---------|-------|-----------|
+| **[agentic-digital-twin-platform](https://github.com/hrishikeshk9/agentic-digital-twin-platform)** | AI Systems + Simulation | Agent orchestration • Physics-informed models • Workflow lineage & reproducibility |
+| **[Retrieval-Augmented-Generation-RAG-System](https://github.com/hrishikeshk9/Retrieval-Augmented-Generation-RAG-System)** | Production AI Systems | Hybrid retrieval • Quality evaluation • Cost tracking • Safety guardrails |
+| **[architecture-decision-records](https://github.com/hrishikeshk9/architecture-decision-records)** | Design Patterns | 15+ ADRs on AI platform design, quality assurance, deployment, and data systems |
+| **[transformer-from-scratch](https://github.com/hrishikeshk9/transformer-from-scratch)** | Model Foundations | Core ML concepts: attention, caching, embeddings, tokenization (first principles) |
+| **[llm-eval-harness](https://github.com/hrishikeshk9/llm-eval-harness)** | AI Quality & Testing | Automated eval frameworks • CI regression gates • Multi-metric assessment |
+| **[terraform-aws-llm-platform](https://github.com/hrishikeshk9/terraform-aws-llm-platform)** | IaC & AI Deployments | Infrastructure-as-code for AI workloads • Multi-environment deployments • Compliance |
+
+---
+
+## 🛠️ Technical Stack
+
+```
+ML/AI Development       PyTorch • Hugging Face • LangChain • LlamaIndex
+                        MLflow • Weights & Biases • Experiment tracking
+
+Testing & Quality       Pytest • Great Expectations • Data validation frameworks
+                        Model evaluation suites • Automated quality gates
+
+CI/CD & Deployment      GitHub Actions • GitLab CI • Jenkins • Terraform
+                        Model registries • Blue-green deployments • Canary rollouts
+
+Cloud & Infrastructure  AWS • Azure • Kubernetes • Docker • MLflow deployments
+                        Observability: Prometheus • Grafana • DataDog
+
+Languages & Frameworks  Python (FastAPI, async/await) • Pandas • NumPy • Scikit-learn
+                        SQL/NoSQL • Vector DBs (Milvus, FAISS, pgvector)
+
+```
+
+---
+
+## 🚧 Currently Building
+
+- 📋 **AI-Native CI/CD Frameworks**: Automated model testing, quality gates, deployment safety checks
+- 🔍 **Continuous Trust Systems**: Real-time drift detection, model monitoring, automated quality dashboards  
+- ✅ **Evaluation Harness**: Standardized evaluation metrics, regression testing, safety validation
+
+---
+
+## 🤝 Let's Collaborate
+
+**Open to partnerships on:**
+- End-to-end AI platform development with robust quality & testing practices
+- Building ML/AI CI/CD infrastructure and automation
+- Model monitoring, evaluation frameworks, and continuous quality assurance
+- Production AI systems (RAG, multi-agent, reasoning) with safety & governance
+
+**Ask me about:** 
+- AI engineering best practices • Model testing & evaluation • ML observability • Continuous quality for AI
+- Data pipelines & feature engineering • Experiment reproducibility • Safe AI deployments
+- Building reliable AI systems at scale
+
+---
+
+<div align="center">
+
+### 🌍 Engineering AI systems that are reliable, observable, and production-ready.
+
+*I build AI platforms where quality isn't an afterthought—it's engineered in from day one.*
+*From data validation to model evaluation to safe deployments, every piece matters.*
+
+</div>
