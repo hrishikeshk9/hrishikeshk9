@@ -1,83 +1,100 @@
----
+<div align="center">
+  
+# 🚀 Hrishikesh Kulkarni
+### ML/LLMOps Engineer | AI Platform Architect | GPU-Native Systems
 
-# Hrishikesh Kulkarni — ML/LLMOps Engineer - AI & GPU Operations
+**Building production-grade ML & LLM platforms at scale**
 
-Designs and builds **large-scale ML & LLM platforms**, high-performance inference systems, and cloud-native AI infrastructure.
-With **8.5+ years** across ML engineering, MLOps, LLMOps, and distributed systems, I focus on creating **reliable, observable, cost-efficient AI platforms** that scale across organizations.
+[📧 Email](mailto:hrishikeshkulkarni9@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/hrishikesh-r-kulkarni) • [🐙 GitHub](https://github.com/hrishikeshk9)
 
-Over the last **4 years**, my work has centered on **LLM systems architecture** — RAG platforms, vLLM-based serving, embeddings optimization, evaluation pipelines, and LLM-driven telemetry.
-Before that, **5 years** architecting **ML platforms, data/feature systems, distributed training pipelines, and simulation-driven AI workflows**.
-
----
-
-## What I Focus On
-
-**LLM & GenAI Platform Architecture**
-- Designing LLM control planes, evaluation frameworks, and multi-stage RAG systems
-- Architecting vLLM-based inference layers with async routing, caching, and cost-aware scheduling
-- Building LLM observability: latency, drift, quality, cost, and safety signals
-
-**ML/LLMOps at Scale**
-- End-to-end ML/LLM lifecycle automation (training → deployment → monitoring)
-- Governance, lineage, reproducibility, and compliance workflows
-- Multi-tenant ML platform design for large engineering orgs
-
-**Cloud-Native AI Infrastructure**
-- Kubernetes-first ML/LLM workloads with GPU orchestration
-- Distributed compute pipelines for simulation, autonomy, and analytics
-- GitOps, IaC, and secure ML deployment architectures
+</div>
 
 ---
 
-## Selected Open Source Work
+## 🎯 Who I Am
 
-| Repo | What it demonstrates |
-|---|---|
-| [agentic-digital-twin-platform](https://github.com/hrishikeshk9/agentic-digital-twin-platform) | LangGraph agents + PINN/ROM simulation + Dagster lineage for autonomous industrial twins |
-| [Retrieval-Augmented-Generation-RAG-System](https://github.com/hrishikeshk9/Retrieval-Augmented-Generation-RAG-System) | Production RAG: hybrid retrieval, guardrails, LLM-judge eval loop, cost model |
-| [architecture-decision-records](https://github.com/hrishikeshk9/architecture-decision-records) | 15 ADRs across LLM platform, RAG, MLOps, infra, and data systems |
-| [transformer-from-scratch](https://github.com/hrishikeshk9/transformer-from-scratch) | Attention, KV cache, RoPE, and BPE tokenizer implemented without framework layers |
-| [llm-eval-harness](https://github.com/hrishikeshk9/llm-eval-harness) | LLM-as-judge, CI regression gates, retrieval + generation metrics |
-| [terraform-aws-llm-platform](https://github.com/hrishikeshk9/terraform-aws-llm-platform) | EKS GPU cluster, vLLM-ready infra, Karpenter spot/on-demand, permission boundaries |
+With **8.5+ years** in ML engineering, I architect and ship **large-scale, cost-efficient AI platforms** that organizations depend on. 
+
+- **Last 4 years**: LLM systems architecture — RAG, vLLM serving, embeddings, evaluation, telemetry
+- **Prior 5 years**: ML platforms, feature systems, distributed training, simulation-driven AI
+- **Specialty**: Taking AI systems from prototype → production → observable at scale
 
 ---
 
-## Core Skills
+## 💡 What I Build
 
-**ML/AI Platform Engineering:**
-MLflow, Kubeflow, LangChain, LlamaIndex, vLLM, model monitoring, drift detection, RAG pipelines, experiment tracking
+### 🤖 LLM & GenAI Platform Architecture
+- Multi-stage RAG systems with hybrid retrieval, reranking, and LLM-judge evaluation
+- vLLM-based inference layers: async routing, intelligent batching, cost-aware scheduling
+- LLM observability stacks: latency, quality drift, cost per token, safety signals
 
-**Cloud & Infrastructure:**
-AWS, Azure, Kubernetes, Docker, Terraform, Ansible, GitOps, distributed computing, observability (Prometheus/Grafana), secure ML deployments
+### ⚙️ ML/LLMOps at Scale  
+- End-to-end ML/LLM automation: training → deployment → monitoring → feedback loops
+- Governance, lineage tracking, experiment reproducibility, compliance workflows
+- Multi-tenant platform design for 100+ data science teams
 
-**Programming & Data Systems:**
-Python (FastAPI, async/await), PyTorch, SQL/NoSQL, vector databases (Milvus/FAISS/pgvector), ETL pipelines
+### ☸️ Cloud-Native AI Infrastructure
+- Kubernetes-first: GPU orchestration, dynamic scaling, multi-cloud deployments
+- Distributed compute: simulation pipelines, autonomy workloads, analytics at scale
+- Infrastructure-as-Code: Terraform/Ansible, GitOps, secure secrets & RBAC
 
 ---
 
-## Currently Working On
+## 🔗 Open Source Portfolio
 
-- Architecting LLM evaluation & safety workflows for production systems
-- Designing cost-efficient vLLM inference layers with dynamic batching and routing
-- Building multi-tenant RAG platforms with vector search and hybrid retrieval
+**Click any project to dive deeper into the code & architecture decisions**
 
-## Looking to Collaborate On
+| Project | Focus | Highlights |
+|---------|-------|-----------|
+| **[agentic-digital-twin-platform](https://github.com/hrishikeshk9/agentic-digital-twin-platform)** | Autonomous Systems + Physics | LangGraph agents • PINN/ROM simulation • Dagster lineage |
+| **[Retrieval-Augmented-Generation-RAG-System](https://github.com/hrishikeshk9/Retrieval-Augmented-Generation-RAG-System)** | Production RAG | Hybrid retrieval • Guardrails • LLM-judge eval • Cost metrics |
+| **[architecture-decision-records](https://github.com/hrishikeshk9/architecture-decision-records)** | Design Patterns | 15+ ADRs spanning LLM platform, RAG, MLOps, infra, data systems |
+| **[transformer-from-scratch](https://github.com/hrishikeshk9/transformer-from-scratch)** | Deep Learning Foundations | Attention • KV cache • RoPE • BPE tokenizer (no frameworks) |
+| **[llm-eval-harness](https://github.com/hrishikeshk9/llm-eval-harness)** | LLM Quality | LLM-as-judge • CI regression gates • Retrieval + generation metrics |
+| **[terraform-aws-llm-platform](https://github.com/hrishikeshk9/terraform-aws-llm-platform)** | IaC & DevOps | EKS GPU clusters • vLLM-ready • Karpenter • Permission boundaries |
 
-- Open-source LLMOps tooling, RAG frameworks, and evaluation systems
-- High-scale ML/LLM infrastructure projects
+---
+
+## 🛠️ Technical Stack
+
+```
+ML/AI Platforms        MLflow • Kubeflow • LangChain • LlamaIndex • vLLM
+                       Model monitoring • Drift detection • Experiment tracking
+
+Cloud & Infrastructure AWS • Azure • Kubernetes • Docker • Terraform • Ansible
+                       GitOps • Distributed computing • Prometheus • Grafana
+
+Languages & Frameworks Python (FastAPI, async/await) • PyTorch
+                       SQL/NoSQL • Vector DBs (Milvus, FAISS, pgvector) • ETL
+
+```
+
+---
+
+## 🚧 Currently Shipping
+
+- 🔍 **LLM Evaluation & Safety**: Production evaluation frameworks, red-teaming workflows
+- ⚡ **vLLM Inference Optimization**: Dynamic batching, cost-aware routing, latency SLOs  
+- 🗂️ **Multi-Tenant RAG**: Vector search, hybrid retrieval, per-tenant data isolation
+
+---
+
+## 🤝 Let's Connect
+
+**Open to collaborations on:**
+- Open-source LLMOps tooling, RAG frameworks, evaluation systems
+- High-scale ML/LLM infrastructure (especially Kubernetes + GPU orchestration)
 - Platform engineering for AI-heavy organizations
 
-## Ask Me About
-
-- LLMOps, RAG, vLLM, embeddings, async inference
-- ML platform architecture, observability, lineage, governance
-- Kubernetes for ML/LLM workloads
-
-## Reach Me
-
-- Email: hrishikeshkulkarni9@gmail.com
-- LinkedIn: [linkedin.com/in/hrishikesh-r-kulkarni](https://linkedin.com/in/hrishikesh-r-kulkarni)
+**Ask me about:** LLMOps workflows • RAG patterns • vLLM deployment • ML observability • Kubernetes for ML • Distributed systems
 
 ---
 
-I've built platforms across **LLMs, digital twins, SDVs, and simulation systems** — four domains that rarely overlap, but all demand **robust, scalable, production-grade engineering**.
+<div align="center">
+
+### 🌍 Building the future of AI — one scalable platform at a time.
+
+*I've architected systems across LLMs, digital twins, autonomous vehicles, and physics-driven simulation.*
+*Each domain is complex. Each demands production-grade engineering.*
+
+</div>
