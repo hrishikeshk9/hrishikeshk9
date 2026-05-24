@@ -5,7 +5,7 @@
 
 **Building production-grade AI systems with robust CI/CD, testing, and continuous trust**
 
-[📧 Email](mailto:hrishikeshkulkarni9@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/hrishikesh-r-kulkarni) • [🐙 GitHub](https://github.com/hrishikeshk9)
+[💼 LinkedIn](https://linkedin.com/in/hrishikesh-r-kulkarni) • [🐙 GitHub](https://github.com/hrishikeshk9)
 
 </div>
 
